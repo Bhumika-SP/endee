@@ -1,0 +1,222 @@
+[
+  {
+    "id": "job_001",
+    "title": "Machine Learning Engineer",
+    "company": "DeepMind Technologies",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹25-40 LPA",
+    "skills": ["Python", "TensorFlow", "PyTorch", "ML algorithms", "Deep Learning", "Docker", "Kubernetes"],
+    "description": "Design and implement machine learning models for real-world applications. Work on deep learning pipelines, model training, optimization, and deployment at scale. Collaborate with research scientists to bring cutting-edge ML research into production. Strong Python skills and hands-on experience with neural network frameworks required."
+  },
+  {
+    "id": "job_002",
+    "title": "Data Scientist",
+    "company": "Flipkart",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "1-3 years",
+    "salary": "₹18-28 LPA",
+    "skills": ["Python", "R", "SQL", "Statistics", "Pandas", "Scikit-learn", "Data Visualization", "A/B Testing"],
+    "description": "Drive data-driven decisions across the business using statistical analysis and machine learning. Build predictive models for customer behavior, pricing, and recommendations. Create dashboards and reports for leadership. Experience with large-scale data analysis and strong statistical background required."
+  },
+  {
+    "id": "job_003",
+    "title": "Backend Engineer - Python",
+    "company": "Razorpay",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹20-35 LPA",
+    "skills": ["Python", "Django", "FastAPI", "PostgreSQL", "Redis", "REST APIs", "Microservices", "AWS"],
+    "description": "Build and scale backend systems for India's leading payment gateway. Design RESTful APIs, optimize database queries, and architect microservices. Work with high-traffic systems processing millions of transactions. Strong Python, SQL, and system design skills essential."
+  },
+  {
+    "id": "job_004",
+    "title": "Full Stack Developer",
+    "company": "Swiggy",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹18-30 LPA",
+    "skills": ["React", "Node.js", "JavaScript", "TypeScript", "MongoDB", "REST APIs", "Docker", "Git"],
+    "description": "Build seamless user experiences for Swiggy's food delivery platform. Develop features across the full stack - from responsive React frontends to scalable Node.js backends. Work in agile sprints with design and product teams. Experience with modern JavaScript ecosystem and cloud deployments preferred."
+  },
+  {
+    "id": "job_005",
+    "title": "AI Research Scientist",
+    "company": "Microsoft Research India",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹35-60 LPA",
+    "skills": ["Python", "Deep Learning", "NLP", "Computer Vision", "PyTorch", "Research", "Publications", "Mathematics"],
+    "description": "Conduct cutting-edge AI research with real-world impact. Publish at top-tier conferences (NeurIPS, ICML, ACL). Collaborate with product teams to transition research into products. PhD or equivalent research experience in ML/AI required. Strong mathematical foundation in linear algebra, probability, and optimization."
+  },
+  {
+    "id": "job_006",
+    "title": "DevOps Engineer",
+    "company": "Infosys",
+    "location": "Pune, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹12-22 LPA",
+    "skills": ["Docker", "Kubernetes", "CI/CD", "Jenkins", "AWS", "Terraform", "Linux", "Python", "Ansible"],
+    "description": "Automate and streamline software delivery pipelines. Manage cloud infrastructure on AWS and Azure. Implement CI/CD with Jenkins and GitLab. Strong expertise in containerization with Docker/Kubernetes and infrastructure as code using Terraform required."
+  },
+  {
+    "id": "job_007",
+    "title": "NLP Engineer",
+    "company": "Sarvam AI",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹22-38 LPA",
+    "skills": ["Python", "NLP", "Transformers", "BERT", "HuggingFace", "Text Classification", "Named Entity Recognition", "LLMs"],
+    "description": "Build NLP solutions for Indian language understanding and generation. Fine-tune large language models, develop text classification pipelines, and create conversational AI systems. Experience with HuggingFace Transformers and multilingual NLP required. Work on models supporting Hindi, Tamil, and other Indian languages."
+  },
+  {
+    "id": "job_008",
+    "title": "Frontend Engineer - React",
+    "company": "Zepto",
+    "location": "Mumbai, India",
+    "type": "Full-time",
+    "experience": "1-3 years",
+    "salary": "₹15-25 LPA",
+    "skills": ["React", "JavaScript", "TypeScript", "CSS", "HTML", "Redux", "Performance Optimization", "Mobile Web"],
+    "description": "Create fast, beautiful, and accessible user interfaces for Zepto's quick commerce platform. Build reusable component libraries, optimize web performance, and work closely with designers. Strong React and JavaScript skills with an eye for detail required."
+  },
+  {
+    "id": "job_009",
+    "title": "Data Engineer",
+    "company": "PhonePe",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹20-35 LPA",
+    "skills": ["Python", "Apache Spark", "Kafka", "SQL", "Data Pipelines", "AWS", "Airflow", "Hadoop"],
+    "description": "Design and build data pipelines that power PhonePe's analytics and ML systems. Handle petabyte-scale data processing using Spark and Kafka. Build reliable, efficient ETL pipelines and maintain data quality. Experience with big data technologies and distributed systems required."
+  },
+  {
+    "id": "job_010",
+    "title": "Cloud Solutions Architect",
+    "company": "Amazon Web Services",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "experience": "5-8 years",
+    "salary": "₹40-65 LPA",
+    "skills": ["AWS", "Cloud Architecture", "Microservices", "Security", "Networking", "Cost Optimization", "Docker", "Python"],
+    "description": "Help enterprises design and deploy AWS cloud solutions. Develop reference architectures, conduct well-architected reviews, and guide technical decisions. Deep expertise in AWS services, cloud security, and enterprise architecture patterns required. AWS certifications strongly preferred."
+  },
+  {
+    "id": "job_011",
+    "title": "Generative AI Engineer",
+    "company": "Bangalore AI Labs",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "1-3 years",
+    "salary": "₹20-32 LPA",
+    "skills": ["Python", "LangChain", "OpenAI API", "RAG", "Vector Databases", "LLMs", "Prompt Engineering", "FastAPI"],
+    "description": "Build production-grade generative AI applications using LLMs. Implement RAG pipelines, fine-tune models, and create intelligent agents. Work with vector databases, embeddings, and prompt engineering. Strong Python and hands-on experience with LLM APIs and frameworks like LangChain required."
+  },
+  {
+    "id": "job_012",
+    "title": "Computer Vision Engineer",
+    "company": "Ola Electric",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹22-38 LPA",
+    "skills": ["Python", "OpenCV", "PyTorch", "Deep Learning", "Object Detection", "YOLO", "Image Segmentation", "Edge AI"],
+    "description": "Develop computer vision systems for Ola Electric's autonomous and advanced driver assistance features. Build real-time object detection and tracking pipelines. Optimize models for edge deployment on embedded hardware. Experience with YOLO, SLAM, and embedded computer vision required."
+  },
+  {
+    "id": "job_013",
+    "title": "Android Developer",
+    "company": "CRED",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹18-30 LPA",
+    "skills": ["Android", "Kotlin", "Java", "MVVM", "Jetpack Compose", "REST APIs", "Git", "Performance"],
+    "description": "Build CRED's premium Android application used by millions of high-trust users. Work with Kotlin, Jetpack Compose, and clean architecture patterns. Focus on performance, security, and delightful user experiences. Strong Kotlin and Android SDK knowledge required."
+  },
+  {
+    "id": "job_014",
+    "title": "Cybersecurity Analyst",
+    "company": "Wipro",
+    "location": "Hyderabad, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹14-24 LPA",
+    "skills": ["Network Security", "SIEM", "Penetration Testing", "Python", "Vulnerability Assessment", "Incident Response", "OWASP"],
+    "description": "Protect enterprise systems from cyber threats. Conduct vulnerability assessments, penetration testing, and security audits. Monitor SIEM systems and respond to incidents. Experience with network security, ethical hacking tools, and security frameworks like NIST and ISO 27001 required."
+  },
+  {
+    "id": "job_015",
+    "title": "MLOps Engineer",
+    "company": "Walmart Global Tech",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹25-42 LPA",
+    "skills": ["Python", "MLflow", "Kubeflow", "Docker", "Kubernetes", "AWS SageMaker", "CI/CD", "Machine Learning"],
+    "description": "Bridge the gap between ML research and production at massive scale. Build MLOps platforms for model training, versioning, and deployment. Automate ML pipelines using Kubeflow and MLflow. Experience with model serving infrastructure, A/B testing frameworks, and cloud ML services required."
+  },
+  {
+    "id": "job_016",
+    "title": "Product Manager - AI",
+    "company": "Google India",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "4-8 years",
+    "salary": "₹45-80 LPA",
+    "skills": ["Product Management", "AI/ML Understanding", "Data Analysis", "Roadmapping", "User Research", "SQL", "Strategy"],
+    "description": "Define and drive AI product strategy for Google's India operations. Work with engineers, researchers, and designers to ship AI-powered features. Analyze user data, conduct market research, and build compelling product roadmaps. Strong analytical mindset and experience managing technical AI products required."
+  },
+  {
+    "id": "job_017",
+    "title": "Blockchain Developer",
+    "company": "Polygon",
+    "location": "Remote, India",
+    "type": "Full-time",
+    "experience": "2-5 years",
+    "salary": "₹25-45 LPA",
+    "skills": ["Solidity", "Ethereum", "Web3.js", "Smart Contracts", "DeFi", "JavaScript", "Python", "Cryptography"],
+    "description": "Build next-generation DeFi protocols and smart contracts on Polygon's L2 network. Write secure Solidity contracts, integrate Web3 frontends, and audit smart contract code. Deep understanding of blockchain mechanics, cryptography, and DeFi protocols required."
+  },
+  {
+    "id": "job_018",
+    "title": "Site Reliability Engineer",
+    "company": "Myntra",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "3-6 years",
+    "salary": "₹28-45 LPA",
+    "skills": ["Linux", "Python", "Go", "Kubernetes", "Prometheus", "Grafana", "Incident Management", "AWS"],
+    "description": "Ensure Myntra's platform stays reliable during peak sale events with millions of concurrent users. Build monitoring systems, automate incident response, and improve system reliability. Experience with SLOs, error budgets, and large-scale distributed system operations required."
+  },
+  {
+    "id": "job_019",
+    "title": "Quantitative Analyst",
+    "company": "Goldman Sachs",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "1-4 years",
+    "salary": "₹30-55 LPA",
+    "skills": ["Python", "R", "Statistics", "Mathematics", "Machine Learning", "Financial Modeling", "SQL", "NumPy"],
+    "description": "Develop quantitative models for risk management, trading strategies, and financial analysis. Apply ML and statistical methods to financial data. Strong mathematical background in stochastic processes, linear algebra, and probability required. Finance domain knowledge is a plus."
+  },
+  {
+    "id": "job_020",
+    "title": "iOS Developer",
+    "company": "Meesho",
+    "location": "Bengaluru, India",
+    "type": "Full-time",
+    "experience": "2-4 years",
+    "salary": "₹16-28 LPA",
+    "skills": ["Swift", "iOS", "UIKit", "SwiftUI", "Xcode", "REST APIs", "Core Data", "App Performance"],
+    "description": "Build Meesho's iOS app used by millions of entrepreneurs across India. Develop features using Swift and SwiftUI, optimize app performance, and ensure a smooth user experience. Experience with iOS SDK, Apple guidelines, and iterative feature development in an agile team required."
+  }
+]
